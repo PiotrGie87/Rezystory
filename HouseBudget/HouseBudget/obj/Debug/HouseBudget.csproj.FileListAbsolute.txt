@@ -1,0 +1,13 @@
+C:\Users\piotr\source\repos\HouseBudget\HouseBudget\bin\Debug\HouseBudget.exe.config
+C:\Users\piotr\source\repos\HouseBudget\HouseBudget\bin\Debug\HouseBudget.exe
+C:\Users\piotr\source\repos\HouseBudget\HouseBudget\bin\Debug\HouseBudget.pdb
+C:\Users\piotr\source\repos\HouseBudget\HouseBudget\obj\Debug\HouseBudget.csprojAssemblyReference.cache
+C:\Users\piotr\source\repos\HouseBudget\HouseBudget\obj\Debug\HouseBudget.Form1.resources
+C:\Users\piotr\source\repos\HouseBudget\HouseBudget\obj\Debug\HouseBudget.Properties.Resources.resources
+C:\Users\piotr\source\repos\HouseBudget\HouseBudget\obj\Debug\HouseBudget.csproj.GenerateResource.cache
+C:\Users\piotr\source\repos\HouseBudget\HouseBudget\obj\Debug\HouseBudget.csproj.CoreCompileInputs.cache
+C:\Users\piotr\source\repos\HouseBudget\HouseBudget\obj\Debug\HouseBudget.exe
+C:\Users\piotr\source\repos\HouseBudget\HouseBudget\obj\Debug\HouseBudget.pdb
+C:\Users\piotr\source\repos\HouseBudget\HouseBudget\obj\Debug\HouseBudget.Account.resources
+C:\Users\piotr\source\repos\HouseBudget\HouseBudget\obj\Debug\HouseBudget.MyCost.resources
+C:\Users\piotr\source\repos\HouseBudget\HouseBudget\obj\Debug\HouseBudget.Kalkulator.resources
